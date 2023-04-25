@@ -1,4 +1,4 @@
-e51: CPU.RiscV64 @ sysbus
+s51: CPU.RiscV64 @ sysbus
     cpuType: "rv64imac"
     hartId: 0
     privilegeArchitecture: PrivilegeArchitecture.Priv1_10
